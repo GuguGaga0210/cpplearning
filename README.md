@@ -1,4 +1,4 @@
 https://www.google.com/search?atvm=2&sxsrf=AKL5yDg3lfGZ2wat2l6RoKyruq0roZNkXA%3A1793345583393&ved=0CBkQ2_wOahcKEwiYjoP4nOGXAxUAAAAAHQAAAAAQEA&udm=50&q=give+me+10+question+each+for+loops+%2Carray%2Csting+%2Cfunctions%2Cvetor%2Cpointer%2Cand+classes+with+a+starting+template+for+each+with+requider+libs+and+the+int+mian+function+only.+i+want+word+probs+not+a+quiz&mstk=AUtExfBmqTRM1r00ZSGyJsIcvYFNtLkXV7pfTb2CxPmysEA2zzX_G4LPobJwwxpmubgrePS-Mddk-l-5hFIAadAP_L0xO4n4q3LEh5vg0TZ8iOFGc8ROi8dJwq43tfFE5DorQ18oatsL4zQfVjw7-5ZDj77kSO1HgquDbwOs50LD2IEmMhPYSvgLkHFOMQj9IR5S29-pvqg0vkwMwTYqDaFXgYq3tQVos6c4ZKuY5Tv3odvVW209xpC4WNycjerWRdqwaWuUzkKlqEZZ9qHP9G2NTuV8k0GdspfvApewh1APuyK0k7rYFBSsghxuTeZZHw9CMUq7DmNOi0HBRg&csuir=1&mtid=FknkatXpIZD3seMPy-aXiAk
 
 
-this is the question from gemeni
+this is the question from gemeni 

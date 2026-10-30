@@ -19,4 +19,4 @@ int main() {
     cout<<endl<<"avg steps u walked daliy in the past 7 days:"<<avg_steps;
     
     return 0;
-}
+} 
