@@ -2,3 +2,6 @@ https://www.google.com/search?atvm=2&sxsrf=AKL5yDg3lfGZ2wat2l6RoKyruq0roZNkXA%3A
 
 
 this is the question from gemeni 
+
+
+the methord of learning here is that i tell ai to make me quetions it makes me some i do thm learn thorugh trail and error.
