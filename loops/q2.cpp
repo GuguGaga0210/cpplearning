@@ -1,5 +1,9 @@
-//q2. A laboratory culture starts with 10 bacteria. The population doubles every hour. Write a program that uses a loop to display the population at the end of each hour for 12 hours.
-
+/*
+  q2. A laboratory culture starts with 10 bacteria. 
+  The population doubles every hour. Write a program 
+  that uses a loop to display the population at the 
+  end of each hour for 12 hours.
+*/
 #include <iostream>
 using namespace std;
 int main() {    

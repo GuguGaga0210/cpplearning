@@ -1,5 +1,8 @@
-//  q1. A user wants to log their steps every day for a week. Write a program that asks for the steps taken each day for 7 days, tracks the total, and calculates the average daily step
-
+/*
+  q1. A user wants to log their steps every day for a week.
+  Write a program that asks for the steps taken each day for 7 days,
+  tracks the total, and calculates the average daily step
+*/
 #include <iostream>
 using namespace std;
 int main() {

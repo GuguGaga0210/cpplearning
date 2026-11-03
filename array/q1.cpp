@@ -1,5 +1,9 @@
-//q1. A weather station tracks the peak afternoon temperatures for 5 consecutive days. Write a program that accepts these 5 decimal values from the user into an array, finds the highest temperature recorded, and calculates the temperature difference between that maximum and the first day's temperature.
-
+/*
+  q1. A weather station tracks the peak afternoon temperatures for 5 consecutive days.
+  Write a program that accepts these 5 decimal values from the user into an array,
+  finds the highest temperature recorded, and calculates the temperature difference
+  between that maximum and the first day's temperature.
+*/
 #include <iostream>
 using namespace std;
 

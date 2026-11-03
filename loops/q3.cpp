@@ -1,5 +1,9 @@
-//q3. A bank ATM allows a user up to 3 attempts to enter the correct 4-digit PIN (e.g., 5542). Write a program that repeatedly prompts the user for the PIN until they get it right or run out of attempts
-
+/*
+  q3. A bank ATM allows a user up to 3 attempts to enter 
+  the correct 4-digit PIN (e.g., 5542). Write a program 
+  that repeatedly prompts the user for the PIN until they 
+  get it right or run out of attempts
+*/
 #include <iostream>
 using namespace std;
 int main() {    
