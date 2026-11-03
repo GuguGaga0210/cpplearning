@@ -15,12 +15,12 @@ YOU COULD DO THIS WITH RANDOMLY AND INPUT IT TOO.
 using namespace std;
 
 int main() {
-    int wieght[]={120, 450, 80, 310, 500, 190},limit_exider=0;
+    int wieght[]={120, 450, 80, 310, 500, 190},limit_exider=0;//the array has no limits add fit infintie more elements. well could write wieght[6].
     for (int i = 0; i < 6; i++)
     {
-        if (wieght[i]>300)
+        if (wieght[i]>300)//cheacks if the i th postion is not exceeding the legal limit
         {
-            limit_exider++;
+            limit_exider++;//adds onto the var that tracks no of trucks with exceeded wieght
         }
           
     }
