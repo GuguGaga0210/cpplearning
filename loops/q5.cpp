@@ -7,14 +7,14 @@
 #include <iostream>
 using namespace std;
 int main() {    
-    int crats= 150,weeks=0;
-    while (crats>17)
+    int crats= 150,weeks=0;// read the question and u will get the idea for this line. (and read the pervious shit)
+    while (crats>17)// runs till carts are under 17 (that is 16 times)
     {
-        weeks+=1;
-        crats-=18;
-        cout << "Week " << weeks << ": " << crats << " crates remaining." << endl;
+        weeks++;//adds on to how many weeks
+        crats-=18;// removs the crats that were taken
+        cout << "Week " << weeks << ": " << crats << " crates remaining." << endl;//prints weeks and crats remaning
     }
-    cout<<"\nthis many weeks: "<<weeks;
-    return 0;
+    cout<<"\nthis many weeks: "<<weeks;// the "\n" is like endl that just moves the printing cursor to the next line.
+    return 0;//must be wondering what this does . just google it.
 }
  

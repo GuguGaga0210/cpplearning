@@ -7,12 +7,13 @@
 #include <iostream>
 using namespace std;
 int main() {    
-    long long bact=10;
-    cout<<"Bacteria at the start: "<<bact;
-    for (int i = 0; i < 12; i++)
+    long long bact=10;// used long long to store a long number cuz if this shit was looped further then it would exceed the int limit (eg. `2 billion)
+    cout<<"Bacteria at the start: "<<bact<<endl;//print 10 (cuz the starting bact is 10)
+    for (int i = 0; i < 12; i++)//loops 12 times cuz the questions says so
     {
-        bact= bact*2;
-        cout<<"Bacteria after "<<i+1<<" hours: "<<bact<<endl;
+        bact*=2;//doulbes the culture men
+        cout<<"Bacteria after "<<i+1<<" hours: "<<bact<<endl;//pints the culture poplulation every hour
+        
     }
     
     return 0;
