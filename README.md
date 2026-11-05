@@ -1,6 +1,6 @@
 #  $\color{purple}{\text{Me learing Cpp track}}$
 
-## Thing i do here :
+## $\color{lightblue}{\text{Thing i do here :}}$
 
 #### I prompt AI to give me question and i solve them with trial and error.i have not learning cpp before.so go ahead to look thorugh and learn it. i have tried commenting. this is my first post and first time doing this so i am inexperinced.
 
