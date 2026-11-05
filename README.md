@@ -1,4 +1,4 @@
-# Me learing Cpp track
+#  $\color{purple}{\text{Me learing Cpp track}}$
 
 ## Thing i do here :
 
