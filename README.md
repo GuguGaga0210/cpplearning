@@ -1,6 +1,6 @@
-# $\color{purple}{\text{Me learning C++ track}}$
+# $\color{bule}{\text{Me learning C++ track}}$
 
-## $\color{blue}{\text{Things I do here :}}$
+## $\color{purple}{\text{Things I do here :}}$
 > [!IMPORTANT]
 > I prompt AI to give me questions, and I solve them with trial and error. I have not learned C++ before, so I go ahead and look through it and learn it. I have tried commenting. This is my first post and the first time doing this, so I am inexperienced.
 
