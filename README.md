@@ -1,4 +1,4 @@
-# $\color{bule}{\text{Me learning C++ track}}$
+# $\color{blue}{\text{Me learning C++ track}}$
 
 ## $\color{purple}{\text{Things I do here :}}$
 > [!IMPORTANT]
