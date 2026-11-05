@@ -1,7 +1,9 @@
-https://www.google.com/search?atvm=2&sxsrf=AKL5yDg3lfGZ2wat2l6RoKyruq0roZNkXA%3A1793345583393&ved=0CBkQ2_wOahcKEwiYjoP4nOGXAxUAAAAAHQAAAAAQEA&udm=50&q=give+me+10+question+each+for+loops+%2Carray%2Csting+%2Cfunctions%2Cvetor%2Cpointer%2Cand+classes+with+a+starting+template+for+each+with+requider+libs+and+the+int+mian+function+only.+i+want+word+probs+not+a+quiz&mstk=AUtExfBmqTRM1r00ZSGyJsIcvYFNtLkXV7pfTb2CxPmysEA2zzX_G4LPobJwwxpmubgrePS-Mddk-l-5hFIAadAP_L0xO4n4q3LEh5vg0TZ8iOFGc8ROi8dJwq43tfFE5DorQ18oatsL4zQfVjw7-5ZDj77kSO1HgquDbwOs50LD2IEmMhPYSvgLkHFOMQj9IR5S29-pvqg0vkwMwTYqDaFXgYq3tQVos6c4ZKuY5Tv3odvVW209xpC4WNycjerWRdqwaWuUzkKlqEZZ9qHP9G2NTuV8k0GdspfvApewh1APuyK0k7rYFBSsghxuTeZZHw9CMUq7DmNOi0HBRg&csuir=1&mtid=FknkatXpIZD3seMPy-aXiAk
+##### Me learing Cpp track
 
+## Thing i do here :
 
-## this is the question from gemeni 
+# I prompt AI to give me question and i solve them with trial and error.i have not learning cpp before.so go ahead to look thorugh and learn it. i have tried commenting. this is my first post and first time doing this so i am inexperinced.
 
+##### The prompt:
 
-the methord of learning here is that i tell ai to make me quetions it makes me some i do thm learn thorugh trail and error.
+## "Give me 5 questions each for Loops, Array, Strings, Pointers, Vector ,and Classes with a template for each that comtains the int main() function ,namespace, and libraries requiered to do the question. These should be word problems and not a quiz. Make sure that these questions cover every possible conept of the topic. Please add a bonus question covering all questions concept and making a big ,all in one question for each section. "
